@@ -1,0 +1,50 @@
+@media (max-width: 1399px) and (min-width: 1200px) {
+  .resources__grid--item.left-position .resources__grid--content {
+    min-width: 246px;
+  }
+}
+@media (max-width: 1366px) {
+  .nav-menu .drop-down .drop-down ul {
+    left: -90%;
+  }
+  .nav-menu .drop-down .drop-down:hover > ul {
+    left: -100%;
+  }
+  .nav-menu .drop-down .drop-down > a:after {
+    content: "\ea9d";
+  }
+}
+
+@media (max-width: 1024px) {
+  .cases-wrapper {
+    width: auto;
+    height: auto;
+  }
+}
+
+@media (max-width: 768px) {
+  .cases-wrapper {
+    width: auto;
+    height: auto;
+  }
+}
+
+@media (max-width: 480px) {
+  .cases-wrapper {
+    width: auto;
+    height: auto;
+  }
+  .main-content {
+    margin-bottom: 50px;
+  }
+}
+
+@media (max-width: 320px) {
+  .cases-wrapper {
+    width: auto;
+    height: auto;
+  }
+  .main-content {
+    margin-bottom: 50px;
+  }
+}
